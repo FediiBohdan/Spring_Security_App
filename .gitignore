@@ -7,3 +7,4 @@ spring-security-demo.iml
 *.MF
 *.jar
 target/spring-security-app/WEB-INF/view/home.jsp
+target/spring-security-app/WEB-INF/view/plain-login.jsp
