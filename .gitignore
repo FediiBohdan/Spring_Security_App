@@ -3,3 +3,7 @@ src/.DS_Store
 .DS_Store
 *.xml
 spring-security-demo.iml
+*.class
+*.MF
+*.jar
+target/spring-security-app/WEB-INF/view/home.jsp

@@ -11,13 +11,13 @@ import org.springframework.web.servlet.view.InternalResourceViewResolver;
 @EnableWebMvc
 @ComponentScan(basePackages = "ua.fedii.springsecurity")
 public class AppConfig {
-    @Bean
-    public ViewResolver viewResolver() {
-        InternalResourceViewResolver viewResolver = new InternalResourceViewResolver();
+  @Bean
+  public ViewResolver viewResolver() {
+    InternalResourceViewResolver viewResolver = new InternalResourceViewResolver();
 
-        viewResolver.setPrefix("/WEB-INF/view/");
-        viewResolver.setSuffix(".jsp");
+    viewResolver.setPrefix("/WEB-INF/view/");
+    viewResolver.setSuffix(".jsp");
 
-        return viewResolver;
-    }
+    return viewResolver;
+  }
 }
