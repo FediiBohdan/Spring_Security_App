@@ -9,3 +9,6 @@ spring-security-demo.iml
 target/spring-security-app/WEB-INF/view/home.jsp
 target/spring-security-app/WEB-INF/view/plain-login.jsp
 target/spring-security-app/WEB-INF/view/fancy-login.jsp
+target/spring-security-app/WEB-INF/view/access-denied.jsp
+target/spring-security-app/WEB-INF/view/leaders.jsp
+target/spring-security-app/WEB-INF/view/systems.jsp
