@@ -14,3 +14,5 @@ target/spring-security-app/WEB-INF/view/leaders.jsp
 target/spring-security-app/WEB-INF/view/systems.jsp
 target/classes/persistence-postgresql.properties
 target/spring-security-app/WEB-INF/classes/persistence-postgresql.properties
+target/classes/data.sql
+target/spring-security-app/WEB-INF/classes/data.sql
