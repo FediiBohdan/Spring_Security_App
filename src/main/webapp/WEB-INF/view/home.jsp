@@ -6,6 +6,7 @@
 <head>
     <title>Title</title>
 </head>
+
 <body>
 <h2>Home page</h2>
 <hr>

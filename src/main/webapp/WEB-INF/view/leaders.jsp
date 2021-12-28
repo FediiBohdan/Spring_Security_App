@@ -4,6 +4,7 @@
 <head>
     <title>Leaders page</title>
 </head>
+
 <body>
 <h2>Leaders home page</h2>
 <hr>

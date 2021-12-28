@@ -22,7 +22,7 @@ import java.util.logging.Logger;
 public class AppConfig {
   @Autowired private Environment environment;
 
-  private Logger logger = Logger.getLogger(getClass().getName());
+  private final Logger logger = Logger.getLogger(getClass().getName());
 
   @Bean
   public ViewResolver viewResolver() {
